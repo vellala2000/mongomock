@@ -164,6 +164,10 @@ NOTE: If the MongoDB image was updated, or you want to try a different MongoDB v
 you'll have to issue a `docker-compose down` before you do anything else to ensure you're running against
 the intended version.
 
+gitpod
+~~~~~~
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mongomock/mongomock)
+
 utcnow
 ~~~~
 
